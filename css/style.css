@@ -51,13 +51,13 @@ a{
     position: relative;
 }
 
-#nome{
+#title{
     font-family: 'Orbitron', sans-serif;
     font-size: 100px;
     margin: 0;
 }
 
-h2{
+#subtitle{
     font-size: 50px;
     font-family:  'Orbitron', sans-serif;
     margin: 0;
