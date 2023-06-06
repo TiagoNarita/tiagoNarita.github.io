@@ -7,6 +7,9 @@
     transition: all 0.4s;
     border-radius: 5px;
     font-size: 21px;
+    color: #fff;
+    text-decoration: none;
+    font-family: "league Spartan",sans-serif;
 }
 
 .button:hover{
