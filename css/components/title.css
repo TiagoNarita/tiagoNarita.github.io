@@ -3,4 +3,7 @@
     font-size: 100px;
     margin: 0;
     margin-left: 20px;
+    color: white;
+    text-shadow: 4px 4px 0px black;
+    padding-top: 100px; 
 }

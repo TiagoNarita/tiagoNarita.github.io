@@ -3,4 +3,6 @@
     font-family:  'Orbitron', sans-serif;
     margin: 0;
     margin-left: 40px;
+    color: white;
+    text-shadow: 4px 4px 0 black;
 }
